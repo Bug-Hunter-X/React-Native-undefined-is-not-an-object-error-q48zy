@@ -1,0 +1,1 @@
+This error occurs when you try to use a component that is not yet defined or rendered in the component tree. This commonly happens when you attempt to access a child component's props or state from its parent before the child has mounted.
