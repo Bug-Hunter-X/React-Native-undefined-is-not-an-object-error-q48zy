@@ -1,0 +1,1 @@
+To fix this, use the component's lifecycle methods, specifically `componentDidMount`, to ensure that the child component has fully mounted and its state is available before accessing it.  Alternatively, using conditional rendering or state management tools like Context API or Redux can help manage data flow effectively and avoid accessing undefined properties.
